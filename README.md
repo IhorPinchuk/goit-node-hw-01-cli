@@ -1,1 +1,3 @@
-# goit-node-hw-01-cli
+Скріншоти виконання команд:
+
+https://ibb.co/album/9HKm8X
